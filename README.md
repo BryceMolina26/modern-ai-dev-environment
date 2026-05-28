@@ -1,5 +1,12 @@
 # Modern AI Development Environment
 
+![AI](https://img.shields.io/badge/AI-Powered-blue)
+![Python](https://img.shields.io/badge/Python-3.11-green)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+![Cursor](https://img.shields.io/badge/Cursor-IDE-purple)
+
+# Modern AI Development Environment
+
 ## Objective
 
 This repository documents the setup and configuration of a modern AI-assisted development environment using Cursor IDE, Claude Code, and Codex extensions.
@@ -64,6 +71,20 @@ Initial synchronization required configuring Git credentials and remote reposito
 - AI coding assistant integration
 
 ---
+## AI-Assisted Workflow
+
+This project demonstrates how modern AI tools can accelerate software development workflows.
+
+Using Cursor IDE together with Claude Code and Codex allows:
+- Faster debugging
+- AI-assisted code generation
+- Improved documentation
+- Enhanced developer productivity
+- Rapid prototyping
+
+This workflow represents the future of software engineering and AI-augmented development environments.
+
+---
 
 ## Technologies Used
 
@@ -80,3 +101,20 @@ Initial synchronization required configuring Git credentials and remote reposito
 ## Repository Status
 
 Project completed successfully and synchronized with GitHub.
+
+---
+## Project Structure
+
+```bash
+modern-ai-dev-environment/
+│
+├── README.md
+├── example_automation.py
+```
+
+---
+## Screenshots
+
+### Cursor IDE Environment
+![Cursor Screenshot](screenshots/cursor.png)
+
