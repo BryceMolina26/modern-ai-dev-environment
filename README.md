@@ -1,7 +1,8 @@
 # AI-Powered SEO Content Production Research
 
-![AI](https://img.shields.io/badge/AI-Powered-blue)
-![Research](https://img.shields.io/badge/Research-11%20Experts-green)
+![AI Powered](https://img.shields.io/badge/AI-Powered-blue)
+![Research](https://img.shields.io/badge/Research-Project-lightgrey)
+![Experts](https://img.shields.io/badge/Experts-11-green)
 ![SEO](https://img.shields.io/badge/SEO-Content%20Production-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
@@ -9,181 +10,233 @@
 
 This repository contains a comprehensive research project on AI-Powered SEO Content Production.
 
-The objective was to identify, analyze, and synthesize the strategies, workflows, and recommendations used by leading SEO practitioners and AI-assisted content experts.
+The project analyzes the strategies, workflows, and recommendations of leading SEO practitioners to identify recurring themes, best practices, areas of agreement, and implementation frameworks for AI-assisted content operations.
 
-The final outcome is a practical implementation framework that combines expert consensus into an actionable content production system.
-
----
-
-## Research Objective
-
-To understand how top SEO professionals are integrating Artificial Intelligence into content production while maintaining content quality, topical authority, search visibility, and long-term business sustainability.
-
-The project focuses on:
-
-* AI-assisted content workflows
-* Search Engine Optimization (SEO)
-* Generative Engine Optimization (GEO)
-* Human-in-the-loop content systems
-* Content scaling methodologies
-* Performance measurement frameworks
+The final output combines expert research, structured datasets, cross-expert analysis, an implementation playbook, and an interactive analytics dashboard.
 
 ---
 
-## Research Scope
+## Project Objectives
 
-### Experts Analyzed
+* Analyze leading SEO and AI content experts
+* Identify common recommendations and recurring patterns
+* Compare areas of consensus and disagreement
+* Build a structured research dataset
+* Create an implementation framework for AI-powered content production
+* Develop an interactive analytics dashboard
+
+---
+
+## Experts Analyzed
+
+### SEO & Content Production
 
 * Matt Diggity
-* Lily Ray
 * Brian Dean
+* Nathan Gotch
+* Lily Ray
 * Aleyda Solis
 * Mark Williams-Cook
 * Ross Simmonds
 * Julian Goldie
-* Nathan Gotch
 * Koray GÜBÜR
 * Gael Breton
-* Additional supporting sources
 
-### Sources Reviewed
+### Supporting Sources
 
-* LinkedIn content
-* YouTube content
-* Public interviews
-* Industry publications
-* Case studies
-* Expert frameworks
+Additional industry publications, LinkedIn content, YouTube transcripts, and public research materials.
+
+---
+
+## Research Deliverables
+
+### Expert Profiles
+
+Detailed analysis of each expert including:
+
+* Core philosophies
+* Frameworks
+* Workflows
+* Practical recommendations
+* Relevance to AI-powered content production
+
+### Cross-Expert Findings
+
+Located in:
+
+```text
+Research/insights/key_findings.md
+```
+
+Includes:
+
+* Executive synthesis
+* Areas of agreement
+* Areas of disagreement
+* Recurring themes
+* Best practices
+* Strategic recommendations
+
+### Implementation Playbook
+
+Located in:
+
+```text
+Research/strategy/final_playbook.md
+```
+
+Includes:
+
+* Research workflow
+* Content production workflow
+* Distribution strategy
+* Measurement framework
+* AI tooling recommendations
+* Risk mitigation plans
+* 90-day implementation roadmap
+
+### Structured Dataset
+
+Located in:
+
+```text
+dashboard/data.csv
+```
+
+Contains:
+
+* Expert
+* Category
+* Topic
+* Recommendation
+* Consensus level
+
+---
+
+## Interactive Dashboard
+
+This project includes a Streamlit dashboard for exploring expert recommendations interactively.
+
+### Features
+
+* Expert filtering
+* Category filtering
+* Consensus-level analysis
+* Interactive visualizations
+* KPI monitoring
+* Searchable recommendation dataset
+* Dynamic charts using Plotly
+
+### Run Locally
+
+Install dependencies:
+
+```bash
+pip install streamlit pandas plotly
+```
+
+Launch dashboard:
+
+```bash
+python -m streamlit run dashboard/dashboard.py
+```
 
 ---
 
 ## Repository Structure
 
 ```text
-Research/
+modern-ai-dev-environment/
 │
-├── sources.md
+├── README.md
 │
-├── linkedin-posts/
-│   ├── expert profiles
-│   └── content analysis
+├── dashboard/
+│   ├── dashboard.py
+│   └── data.csv
 │
-├── youtube-transcripts/
-│   ├── transcript summaries
-│   └── video insights
+├── Research/
+│   ├── insights/
+│   │   └── key_findings.md
+│   │
+│   ├── linkedin-posts/
+│   │   ├── aleyda-solis.md
+│   │   ├── lily-ray.md
+│   │   ├── mark-williams-cook.md
+│   │   └── ross-simmonds.md
+│   │
+│   ├── youtube-transcripts/
+│   │   ├── brian-dean.md
+│   │   ├── gael-breton.md
+│   │   ├── julian-goldie.md
+│   │   ├── koray-gubur.md
+│   │   ├── matt-diggity.md
+│   │   └── nathan-gotch.md
+│   │
+│   ├── strategy/
+│   │   └── final_playbook.md
+│   │
+│   └── sources.md
 │
-├── insights/
-│   └── key_findings.md
-│
-└── strategy/
-    └── final_playbook.md
+└── screenshots/
 ```
-
----
-
-## Deliverables
-
-### Expert Research Profiles
-
-Detailed profiles documenting:
-
-* Expert background
-* Areas of specialization
-* Key frameworks
-* Practical recommendations
-* Relevance to AI-powered SEO
-
-### Cross-Expert Analysis
-
-A consolidated research report identifying:
-
-* Common themes
-* Areas of agreement
-* Areas of disagreement
-* Emerging industry trends
-* Strategic implications
-
-### Implementation Playbook
-
-A practical operational framework covering:
-
-* Content research workflows
-* Content creation workflows
-* Human review processes
-* Publishing procedures
-* Distribution systems
-* Measurement frameworks
-* AI tooling recommendations
 
 ---
 
 ## Key Findings
 
-### Major Areas of Consensus
+### Strong Areas of Consensus
 
-* AI should accelerate production, not replace expertise.
-* Human review remains essential.
-* Topical authority is critical for sustainable rankings.
-* Search intent must be validated before content creation.
-* Entity coverage improves discoverability.
-* Content quality consistently outperforms content volume.
-* GEO (Generative Engine Optimization) is becoming increasingly important.
-* AI-generated content requires factual validation.
+* Human review remains essential
+* AI accelerates content production
+* Topical authority is critical
+* Content quality outweighs content volume
+* GEO and AI Search optimization are becoming mandatory
+* Entity coverage improves search visibility
+* Research should precede content generation
 
-### Emerging Trends
+### Common Workflow
 
-* AI-assisted content operations
-* Entity-first optimization
-* AI search visibility
-* Human-in-the-loop publishing systems
-* Multi-channel content distribution
+Research → Topic Mapping → Content Production → Optimization → Distribution → Measurement
 
----
+### Major Disagreements
 
-## Recommended Workflow
+Experts differ primarily on:
 
-Research → Topic Mapping → Content Creation → Human Review → Publishing → Distribution → Measurement
-
-This workflow reflects the most common recommendations across the analyzed experts.
+* Degree of automation
+* AI-first vs human-first workflows
+* Affiliate site viability
+* Semantic architecture complexity
+* Agent-based content systems
 
 ---
 
 ## Technologies Used
 
-| Technology  | Purpose                    |
-| ----------- | -------------------------- |
-| Cursor IDE  | Research and documentation |
-| Claude Code | Research assistance        |
-| Codex       | Workflow support           |
-| Git         | Version control            |
-| GitHub      | Repository hosting         |
-| Markdown    | Documentation              |
-
----
-
-## Original Environment Setup
-
-This repository was initially created to document the setup of a modern AI-assisted development environment using:
-
-* Cursor IDE
-* Claude Code
-* Codex
-
-The environment was later used to conduct and organize the SEO research project documented in this repository.
+| Technology | Purpose                             |
+| ---------- | ----------------------------------- |
+| Python     | Data processing                     |
+| Streamlit  | Dashboard application               |
+| Plotly     | Interactive visualizations          |
+| Git        | Version control                     |
+| GitHub     | Repository hosting                  |
+| Cursor IDE | AI-assisted development             |
+| Claude     | Research and synthesis              |
+| ChatGPT    | Analysis and implementation support |
 
 ---
 
 ## Learning Outcomes
 
-Through this project I developed experience in:
+This project demonstrates:
 
-* AI-assisted research workflows
-* Structured knowledge synthesis
-* SEO content strategy analysis
-* Technical documentation
-* Repository organization
-* Version control best practices
-* Cross-source information analysis
+* Research synthesis
+* Data structuring
+* Dashboard development
+* Documentation practices
+* Git workflows
+* AI-assisted analysis
+* SEO strategy evaluation
+* Business intelligence reporting
 
 ---
 
