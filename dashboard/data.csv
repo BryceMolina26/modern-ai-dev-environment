@@ -1,0 +1,159 @@
+Expert,Category,Topic,Recommendation,Consensus_Level
+Matt Diggity,Workflow,Cyborg Model,"Use AI for research outlines and first drafts; humans add tone accuracy original examples and lived experience",Universal Consensus
+Matt Diggity,Workflow,Raw AI Publishing,"Never publish unedited AI content; risks deindexing on new domains and underperforms hybrid content",Universal Consensus
+Matt Diggity,Topical Architecture,Topical Mapping,"Start with root topic use ChatGPT for subtopics and FAQs validate demand in Ahrefs or SEMrush",Strong Consensus
+Matt Diggity,Topical Architecture,Pillar and Cluster Silos,"Organize content into pillar pages plus cluster silos with how-tos FAQs comparisons and pros/cons",Strong Consensus
+Matt Diggity,Topical Architecture,Reverse Silos,"Use reverse silos for new sites; graduate to priority silos once authority is established",Individual Expert View
+Matt Diggity,Topical Architecture,Minimum Topical Relevance,"Build landing page plus approximately 4 supporting articles with contextual internal links per topic",Strong Consensus
+Matt Diggity,Entity SEO,Entity Extraction,"Extract entities from top-ranking pages via SurferSEO and weave into headings body alt text and internal links",Strong Consensus
+Matt Diggity,Entity SEO,Schema Markup,Use schema markup to clarify entity relationships across the site,Strong Consensus
+Matt Diggity,On-Page SEO,SERP Intent Matching,"Put main query in H1 subtopics in H2-H3 and answer the query in opening paragraphs",Strong Consensus
+Matt Diggity,GEO,AI Overview Optimization,"Use question-style H2/H3 headings standalone answer paragraphs and conversational language",Strong Consensus
+Matt Diggity,GEO,Authority Signals,Include author bios case studies and citations for AI search citation,Strong Consensus
+Matt Diggity,GEO,Structured Data,"Apply FAQ How-To and Article schema for AI Overviews ChatGPT and Perplexity",Strong Consensus
+Matt Diggity,Content Quality,Proprietary Value,"Inject stats case studies original examples and firsthand experience AI cannot replicate",Strong Consensus
+Matt Diggity,Publishing,Velocity Control,Cap output at roughly 3-5 articles per day per site to avoid velocity signals,Strong Consensus
+Matt Diggity,Publishing,Content Audits,"Revisit content monthly merge duplicates expand thin pages and keep silos coherent",Strong Consensus
+Matt Diggity,Tools,SurferSEO,Use SurferSEO or SurferAI for entity extraction and human-AI hybrid editing,Individual Expert View
+Matt Diggity,Tools,Ahrefs and SEMrush,Validate every subtopic against search demand before writing,Strong Consensus
+Brian Dean,Content Quality,Quality Over Volume,High-quality content outperforms high-volume content production,Strong Consensus
+Brian Dean,Search Intent,Intent Analysis,Analyze search intent before writing any content piece,Universal Consensus
+Brian Dean,Content Quality,Complete Problem Solving,Content should solve the complete user problem not a partial answer,Strong Consensus
+Brian Dean,Workflow,AI as Assistant,Use AI to support research and drafting but not replace human expertise,Universal Consensus
+Brian Dean,Distribution,Distribution Equals Creation,Content distribution is as important as content creation,Strong Consensus
+Brian Dean,On-Page SEO,Content Structure,Optimize content structure to match user expectations and SERP format,Strong Consensus
+Brian Dean,Workflow,Editorial Standards,Combine AI productivity with high editorial standards,Universal Consensus
+Nathan Gotch,Systems,Repeatable SEO Process,Treat SEO as a repeatable business process not isolated tactics,Strong Consensus
+Nathan Gotch,Workflow,AI Research Acceleration,Use AI to accelerate content research topic clustering and content planning,Strong Consensus
+Nathan Gotch,Topical Architecture,Topical Authority,Topical authority matters more than publishing many unrelated articles,Universal Consensus
+Nathan Gotch,Search Intent,Intent Over Keywords,Build content around search intent rather than keywords alone,Universal Consensus
+Nathan Gotch,Workflow,Human Review,Human review remains critical for accuracy and differentiation,Universal Consensus
+Nathan Gotch,Topical Architecture,Content Clusters,Build content clusters with supporting articles linked to pillar pages,Strong Consensus
+Nathan Gotch,Systems,Process Standardization,Create repeatable documented SEO systems for long-term content assets,Strong Consensus
+Koray GÜBÜR,Topical Architecture,Semantic Content Networks,Build orchestrated Semantic Content Networks not disconnected article collections,Individual Expert View
+Koray GÜBÜR,Topical Architecture,Query Fan-Out Coverage,Cover all contextual domains a query fan-out might decompose into not just head terms,Individual Expert View
+Koray GÜBÜR,Semantic SEO,Cost of Retrieval,Reduce Cost of Retrieval by building site-wide entity networks and semantic consistency,Individual Expert View
+Koray GÜBÜR,Semantic SEO,Representative Documents,Authority comes from retrieval efficiency and representative document status not single-URL keyword optimization,Individual Expert View
+Koray GÜBÜR,Semantic SEO,Topical Maps,Start every project with topical map structured around entities and query spaces not keyword lists,Strong Consensus
+Koray GÜBÜR,Semantic SEO,Relevance Configuration,Align phrasing with how retrieval systems tokenize and interpret language,Individual Expert View
+Koray GÜBÜR,Semantic SEO,Algorithmic Authorship,Write with linguistic patterns matching retrieval system architecture and tokenization,Individual Expert View
+Koray GÜBÜR,Distribution,Surround Sound Strategy,Build distributed corroboration network of mentions confirming entity identity across the web,Strong Consensus
+Koray GÜBÜR,On-Page SEO,Visual Semantics,Treat visual layout and document structure as ranking signals not just text quality,Individual Expert View
+Koray GÜBÜR,On-Page SEO,Block2Block Parsing,Avoid identical templated designs across pages; unique layouts influence source classification,Individual Expert View
+Koray GÜBÜR,Workflow,AI Agent Mapping,Use 287+ GPT agents for topical mapping and brief generation with human editorial judgment,Individual Expert View
+Koray GÜBÜR,Workflow,Human Non-Commodity Insight,Enforce human effort on non-commodity insight and original editorial judgment,Strong Consensus
+Koray GÜBÜR,Entity SEO,Entity Graphs,Use holistic SEO combining semantics entities links and technical quality together,Individual Expert View
+Gael Breton,Automation,Action AI vs Chat AI,Stop chatting with AI; delegate multi-step workflows to agentic Action AI tools,Mixed (Expert Disagreement)
+Gael Breton,Automation,Claude Code,Use Claude Code as director-level assistant for gap analysis campaigns and SEO workflows,Mixed (Expert Disagreement)
+Gael Breton,Automation,Persistent Context,Set up CLAUDE.md with brand voice products and audience for permanent AI context,Strong Consensus
+Gael Breton,Automation,Reusable Skills,Convert repeatable SEO tasks into installable Claude Code skills shared across teams,Mixed (Expert Disagreement)
+Gael Breton,Automation,MCP Integrations,Connect AI to Notion Slack Google Sheets via MCP not isolated chat windows,Mixed (Expert Disagreement)
+Gael Breton,Automation,Parallel Agents,Use parallel agents for research drafting and analysis simultaneously,Mixed (Expert Disagreement)
+Gael Breton,Business Model,Affiliate Site Pivot,Generic affiliate content-site model is structurally broken; apply SEO to established businesses,Mixed (Expert Disagreement)
+Gael Breton,Business Model,Defensible Products,Target established business owners with real products not beginner niche affiliate sites,Mixed (Expert Disagreement)
+Gael Breton,Workflow,AI as Operator,Treat AI as operator executing workflows not consultant suggesting them,Mixed (Expert Disagreement)
+Gael Breton,Systems,Experimentation,Run experiments document systems and ship battle-tested playbooks not theory,Individual Expert View
+Julian Goldie,Automation,Four-Layer Production Stack,Use AI for research scaffolding outreach and reporting with human gates at draft and publish,Mixed (Expert Disagreement)
+Julian Goldie,Automation,n8n Orchestration,Wire research drafting optimization publishing and repurposing into single n8n workflow,Mixed (Expert Disagreement)
+Julian Goldie,Workflow,Structured SEO Prompts,Use Claude with structured prompts including keyword placement tone and CTA formatting,Strong Consensus
+Julian Goldie,Workflow,No Raw AI Policy,Never publish raw AI output; require senior editor rewrite and technical SEO review,Universal Consensus
+Julian Goldie,Workflow,Multi-Editor Review,Implement senior editor brief writer rewrite and second editor schema review gates,Strong Consensus
+Julian Goldie,Distribution,Repurposing Pipeline,Repurpose every article into video social and community posts via automation,Strong Consensus
+Julian Goldie,Distribution,AI Avatars,Deploy AI avatars for daily short-form on fast-moving topics with disclosure,Mixed (Expert Disagreement)
+Julian Goldie,Distribution,Human Trust Content,Reserve live coaching tool walkthroughs and podcasts for human-to-human trust building,Mixed (Expert Disagreement)
+Julian Goldie,Measurement,Engagement Feedback Loop,Track engagement daily and feed performance data back into topic selection,Strong Consensus
+Julian Goldie,Automation,Claude Code Automation,Use Claude Code for gap analysis internal linking and technical automation,Mixed (Expert Disagreement)
+Julian Goldie,Tools,HeyGen and ElevenLabs,Use HeyGen avatars and ElevenLabs voice for automated short-form video distribution,Mixed (Expert Disagreement)
+Julian Goldie,Tools,SurferSEO,Apply Surfer or manual optimization after AI drafting before publish,Individual Expert View
+Lily Ray,E-E-A-T,Expertise and Trust,Expertise and trust remain critical ranking factors for all content,Universal Consensus
+Lily Ray,Content Quality,Fact-Checking,AI-generated content must be fact-checked by subject matter experts before publishing,Universal Consensus
+Lily Ray,Content Quality,Quality Signals,Content quality signals are becoming increasingly important in ranking algorithms,Strong Consensus
+Lily Ray,E-E-A-T,Author Credibility,Author credibility and bios improve content performance and trust signals,Strong Consensus
+Lily Ray,Content Quality,Helpful Content,Google updates continue rewarding useful helpful content over generic filler,Strong Consensus
+Lily Ray,Workflow,SME Validation,Have subject matter experts review and validate all AI-generated content,Universal Consensus
+Lily Ray,E-E-A-T,Demonstrate Expertise,Demonstrate real expertise and strengthen credibility in every published piece,Strong Consensus
+Mark Williams-Cook,GEO,Grounding Classification,Classify queries as grounded vs non-grounded before investing in content production,Strong Consensus
+Mark Williams-Cook,GEO,Solved Knowledge Queries,Deprioritize solved knowledge queries that draw from training data not web retrieval,Strong Consensus
+Mark Williams-Cook,GEO,Grounding Probability,Predict grounding probability using ChatGPT search_prob Gemini API or ML classification tools,Individual Expert View
+Mark Williams-Cook,GEO,Search Prob Threshold,Use ChatGPT search_prob threshold of approximately 0.65 to filter actionable queries,Individual Expert View
+Mark Williams-Cook,Research,ICP Prompt Libraries,Generate prompt libraries from ideal customer profiles not traditional Google keywords,Strong Consensus
+Mark Williams-Cook,Research,PAA Intent Mapping,Map PAA follow-up chains via AlsoAsked to anticipate conversational query sequences,Strong Consensus
+Mark Williams-Cook,Research,Prompt Expansion,Expand 100 traditional keywords to 3000-4000 prompts then filter by grounding probability,Individual Expert View
+Mark Williams-Cook,Distribution,Multi-Site Presence,Pursue brand presence across review sites blogs forums and PR not just owned domain,Strong Consensus
+Mark Williams-Cook,GEO,Background Searches,Target the 3-4 background web searches AI performs for each grounded prompt,Individual Expert View
+Mark Williams-Cook,Distribution,Sentiment Monitoring,Monitor sentiment and brand mentions across results AI aggregates,Strong Consensus
+Mark Williams-Cook,Tools,AlsoAsked,Use AlsoAsked for PAA intent research bridging classic SEO and AI query fan-out,Individual Expert View
+Mark Williams-Cook,Tools,AlsoAsked MCP,Integrate AlsoAsked MCP server with Claude for automated intent research pipelines,Individual Expert View
+Ross Simmonds,GEO,Prioritized GEO Pyramid,Build owned authoritative pages first then citation outreach then surface GEO tactics,Strong Consensus
+Ross Simmonds,GEO,Surface Tactic Deprioritization,Deprioritize llms.txt alone and key-takeaways blocks without substantive retrievable content,Strong Consensus
+Ross Simmonds,Measurement,RoGEO Framework,Measure Return on Generative Engine Optimization not just traffic and CTR,Strong Consensus
+Ross Simmonds,Measurement,Citation Audits,Run citation audits across ChatGPT Perplexity Claude and Gemini before expanding volume,Strong Consensus
+Ross Simmonds,On-Page SEO,Justifiable Claims,Use specific numbers named experts dated studies and customer quotes not generic marketing,Strong Consensus
+Ross Simmonds,On-Page SEO,LLM Extractability,Structure pages with Q&A blocks paragraph-level answers and H2-as-prompts for LLM retrieval,Strong Consensus
+Ross Simmonds,Distribution,Reddit Citations,Invest in Reddit for long-tail B2B prompt citations approximately 45% with YouTube and LinkedIn,Strong Consensus
+Ross Simmonds,Distribution,YouTube Citations,Use YouTube for high-CPC commercial modifier citations with transcripts embedded on site,Strong Consensus
+Ross Simmonds,Distribution,LinkedIn Authority,Build professional authority on LinkedIn for entity consistency and citation corroboration,Strong Consensus
+Ross Simmonds,GEO,AI Memory Inception,Build three-layer strategy: owned E-E-A-T distribution and category language creation,Individual Expert View
+Ross Simmonds,Strategy,Category Creation,Own differentiated terminology not saturated commodity terms like best CRM,Individual Expert View
+Ross Simmonds,Measurement,Citation Frequency,Track citation frequency reference depth format performance and AI-referred lead quality,Strong Consensus
+Ross Simmonds,On-Page SEO,Bottom-of-Funnel First,Build bottom-of-funnel owned pages first; they feed Google rankings and RAG retrieval,Strong Consensus
+Aleyda Solis,Measurement,Three-Layer Framework,Measure Presence Readiness and Business Impact as connected layers not rankings alone,Strong Consensus
+Aleyda Solis,Measurement,Presence KPIs,Track prompt coverage recommendation rate linked citation rate comparative win rate and representation accuracy,Strong Consensus
+Aleyda Solis,Measurement,Platform Segmentation,Segment AI measurement by platform; never blend ChatGPT Perplexity and Google AI Overviews,Strong Consensus
+Aleyda Solis,Measurement,Confidence Labeling,Label metrics by confidence: observed proxy and modeled; never blend attribution layers,Individual Expert View
+Aleyda Solis,Content Quality,Readiness Checklist,"Verify ten characteristics: Accessible Extractable Useful Fresh Differentiated Recognizable Consistent Corroborated Credible Transactable",Strong Consensus
+Aleyda Solis,Content Quality,Extractability,Structure content so LLMs can pull standalone answers from clear paragraphs and headings,Strong Consensus
+Aleyda Solis,Content Quality,Corroboration,Ensure brand and topic supported by off-site mentions and third-party citations,Strong Consensus
+Aleyda Solis,Entity SEO,Entity Consistency,Align entity signals across site Wikidata LinkedIn reviews and press mentions,Strong Consensus
+Aleyda Solis,Strategy,Brand Scope Filter,Ask Is it on brand? for every content technical and PR action before production,Strong Consensus
+Aleyda Solis,Entity SEO,Schema for LLMs,Use schema and structured data as primary interface between content and LLM retrieval,Strong Consensus
+Aleyda Solis,Research,Representative Prompts,Build prompt libraries reflecting real buyer constraints: price team size industry geography compliance,Strong Consensus
+Aleyda Solis,Measurement,Lead KPI Selection,Lead dashboards with KPI that would most change business outcomes if it moved 20%,Individual Expert View
+Aleyda Solis,GEO,Blended Search Future,Expect AI-integrated search with Web Guide not AI-only SERPs as default,Individual Expert View
+Cross-Expert Synthesis,Workflow,Human-in-the-Loop,AI drafts; humans validate differentiate and approve every piece before publishing,Universal Consensus
+Cross-Expert Synthesis,Workflow,Cyborg Workflow,Implement AI research to AI drafter to human editor to technical SEO reviewer pipeline,Universal Consensus
+Cross-Expert Synthesis,Topical Architecture,Architecture Before Volume,Map intent and topical structure before scaling content production,Universal Consensus
+Cross-Expert Synthesis,Search Intent,Intent Decision Layer,Keywords are inputs; SERP format prompts and PAA chains are the decision layer,Universal Consensus
+Cross-Expert Synthesis,E-E-A-T,Non-Fabricatable Trust,Inject proprietary data case studies named experts and firsthand experience AI cannot fake,Universal Consensus
+Cross-Expert Synthesis,GEO,Citation Optimization,Optimize for AI citation and brand presence across platforms not just blue-link rankings,Strong Consensus
+Cross-Expert Synthesis,Entity SEO,Entity-Relationship Clarity,Shift from keyword stuffing to entity-relationship clarity for retrieval systems,Strong Consensus
+Cross-Expert Synthesis,Content Quality,Quality Over Blind Volume,Quality and restraint beat blind volume even for high-automation advocates,Strong Consensus
+Cross-Expert Synthesis,Distribution,Off-Site Corroboration,Off-site mentions reviews and third-party corroboration shape what LLMs recommend,Strong Consensus
+Cross-Expert Synthesis,Workflow,AI as Accelerator,AI executes repeatable tasks; humans own strategy brand fit and final judgment,Universal Consensus
+Cross-Expert Synthesis,Measurement,Beyond Rankings,Measure AI presence readiness and business impact not rankings and clicks alone,Strong Consensus
+Cross-Expert Synthesis,Governance,Pre-Publish Checklist,Create checklist covering fact-checking original examples author attribution schema and internal links,Strong Consensus
+Cross-Expert Synthesis,Publishing,Velocity Cap New Sites,Cap publish velocity on sites under 12 months to 3-5 quality posts per day maximum,Strong Consensus
+Cross-Expert Synthesis,Research,Grounding Filter,Filter prompt library by grounding probability before writing content,Strong Consensus
+Cross-Expert Synthesis,Technical SEO,Structured Data,Add FAQ How-To Article and author schema to all new and refreshed content,Strong Consensus
+Cross-Expert Synthesis,Distribution,Owned First,Publish authoritative indexable pages on owned domain before off-site distribution,Strong Consensus
+Cross-Expert Synthesis,Workflow,Persistent AI Context,Store brand voice audience and product knowledge in reusable system files not ephemeral chat,Strong Consensus
+Cross-Expert Synthesis,Governance,Three-Gate Review,Implement editorial technical SEO and brand/legal review gates before publishing,Strong Consensus
+Cross-Expert Synthesis,Risk,Raw AI Deindexing Risk,Publishing raw AI content is highest-risk behavior with ranking and deindexing consequences,Universal Consensus
+Cross-Expert Synthesis,Risk,AI Hallucinations,Ban unsourced stats and enforce SME fact-checking to prevent hallucinated claims,Universal Consensus
+Cross-Expert Synthesis,Business Model,Established Business Focus,Apply SEO to established businesses with defensible products for highest ROI,Mixed (Expert Disagreement)
+Cross-Expert Synthesis,Automation,Automate Repeatable Only,Automate research briefing drafting and gap analysis; never automate final approval,Strong Consensus
+Cross-Expert Synthesis,Tools,Ahrefs and SEMrush,Use Ahrefs or SEMrush for keyword intent research and SERP validation,Strong Consensus
+Cross-Expert Synthesis,Tools,AlsoAsked,Use AlsoAsked for PAA follow-up chain mapping in research workflow,Strong Consensus
+Cross-Expert Synthesis,Tools,SurferSEO,Use SurferSEO or Clearscope for on-page entity optimization,Strong Consensus
+Cross-Expert Synthesis,Tools,n8n Workflow,Use n8n Make or Zapier for workflow orchestration at scale,Mixed (Expert Disagreement)
+Cross-Expert Synthesis,Tools,Google Rich Results Test,Validate schema markup with Google Rich Results Test before publishing,Strong Consensus
+Cross-Expert Synthesis,Tools,Profound,Use Profound or manual protocols for AI citation tracking,Individual Expert View
+Cross-Expert Synthesis,Tools,Gemini Grounding API,Use Gemini grounding API at approximately 0.03 per query for bulk grounding prediction,Individual Expert View
+Cross-Expert Synthesis,Publishing,Monthly Content Audit,Conduct monthly audits to merge duplicates expand thin pages and realign off-brand content,Strong Consensus
+Cross-Expert Synthesis,Distribution,Repurposing Formats,Repurpose articles into video scripts social posts community threads and newsletter segments,Strong Consensus
+Cross-Expert Synthesis,Measurement,Weekly Citation Spot-Check,Spot-check top 20 prompts across 2 AI platforms weekly for citation changes,Strong Consensus
+Cross-Expert Synthesis,Research,Content Brief Template,Include target query SERP intent entities competitor URLs differentiation and schema in every brief,Strong Consensus
+Cross-Expert Synthesis,On-Page SEO,Opening Paragraph Answer,Place direct answer to core query in first 1-2 paragraphs for extractability,Strong Consensus
+Cross-Expert Synthesis,Technical SEO,Indexability,Ensure pages are indexable fast and mobile-friendly before publishing,Strong Consensus
+Cross-Expert Synthesis,Strategy,Commodity Test,Reject content that could have been written by any competitor AI; fails differentiation gate,Strong Consensus
+Cross-Expert Synthesis,GEO,Query Fan-Out,Anticipate one prompt spawning dozens of sub-queries in content architecture,Strong Consensus
+Cross-Expert Synthesis,Distribution,Review Site Corroboration,Maintain consistent entity descriptions on G2 Capterra and Trustpilot for corroboration,Strong Consensus
+Cross-Expert Synthesis,Workflow,Content Registry,Log URL target prompts pillar/cluster relationship publish date and reviewer sign-offs,Individual Expert View
+Cross-Expert Synthesis,Risk,Surface GEO Over-Investment,Avoid over-investing in surface GEO tactics before owned quality and distribution foundations,Strong Consensus
+Cross-Expert Synthesis,Risk,Entity Misrepresentation,Run entity consistency program across site LinkedIn Wikidata and reviews to fix AI misrepresentation,Strong Consensus
+Cross-Expert Synthesis,Automation,Hybrid vs Agentic,Hybrid cyborg and full agentic pipelines both retain human oversight; disagreement is orchestration depth,Mixed (Expert Disagreement)
+Cross-Expert Synthesis,Publishing,Post-Publish 48 Hours,Within 48 hours verify indexing share to social queue repurposing and update topical map,Individual Expert View
+Cross-Expert Synthesis,Measurement,Readiness Diagnosis,Map visibility failures to readiness dimensions before commissioning more content volume,Strong Consensus
+Cross-Expert Synthesis,Research,Citation Gap Analysis,Identify prompts where brand is absent misrepresented or not recommended in AI answers,Strong Consensus
+Cross-Expert Synthesis,Technical SEO,Internal Linking,Link contextually to pillar and related cluster pages within each silo,Strong Consensus
+Cross-Expert Synthesis,Strategy,90-Day Roadmap,Follow 90-day roadmap: foundation audit research architecture production launch measure iterate,Individual Expert View
